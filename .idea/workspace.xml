@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e71e644d-bab7-4c7b-acc3-8efcc1ccc32b" name="Default Changelist" comment="" />
+    <list default="true" id="e71e644d-bab7-4c7b-acc3-8efcc1ccc32b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sexto.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Quinto">
+  <component name="RunManager" selected="Application.Sexto">
     <configuration name="Cuarto" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Cuarto" />
       <module name="PracticasPrimero" />
@@ -60,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sexto" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sexto" />
+      <module name="PracticasPrimero" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tercero" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Tercero" />
       <module name="PracticasPrimero" />
@@ -73,6 +83,7 @@
       <item itemvalue="Application.Tercero" />
       <item itemvalue="Application.Cuarto" />
       <item itemvalue="Application.Quinto" />
+      <item itemvalue="Application.Sexto" />
     </list>
   </component>
   <component name="SvnConfiguration">
